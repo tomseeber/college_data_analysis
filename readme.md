@@ -1,4 +1,4 @@
-![US news and World Reports Analysis](./images/number_of_colleges_by_state.png)
+![US news and World Reports Analysis](./images/count_of_colleges_by_state.png)
 
 ## Technologies Used
 * Python
