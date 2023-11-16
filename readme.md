@@ -1,4 +1,4 @@
-![US news and World Reports Analysis](./images/count_of_colleges_by_state.png)
+![US news and World Reports Analysis](./images/number_of_colleges_by_state.png)
 
 ## Technologies Used
 * Python
@@ -21,6 +21,7 @@
 ## Analysis Files
 * [D-tale EDA Notebook](./notebooks/D-Tale-self-service.ipynb)
 * [Panda Profiling EDA Notebook](./notebooks/Panda_profiling.ipynb)
+* [Raw descriptive statistics and outlier](./notebooks/Distribution-Outlier-Basic-states.ipynb)
 * [Rudimentary ETL with Additional Data Sources](./Additional_data_Gathering.ipynb)
 * [Core Analysis](./analysis.ipynb)
 * [PCA Reduction](./pca_reduction.ipynb)
