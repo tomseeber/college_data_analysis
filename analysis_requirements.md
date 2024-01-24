@@ -23,6 +23,3 @@ The document should include:
 Meaningful insights into the data, presented in a way your audience will understand.
 A more technical treatment of the data and statistics for your peers.
 Screenshots and explanations of your process. Make sure to answer all the questions in the specifications above.
-
-Submit this by sending it as an email attachment.
-
