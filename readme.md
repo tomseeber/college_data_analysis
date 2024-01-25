@@ -88,6 +88,6 @@ Looking further, we can see the expected variance for different levels of compon
 
 ## Final Analysis
 
-The full analysis and presentation notes have far more details then we covered in this readme.  Feel free to checkout the full slide deck below.
+The full analysis and presentation notes have far more details than we covered in this readme.  Feel free to check out the full slide deck below.
 
 * [PDF Version](./presentation/US_News_and_reports_2016_colleges.pdf)
